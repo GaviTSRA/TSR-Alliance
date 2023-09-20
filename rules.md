@@ -79,6 +79,10 @@
 - You do not need to have your alerts on our discord
 - Not having your alerts on our discord may lead to us and the SFD not being able to defend you due to not being notified about attacks
 
+### § 4.4 Getting wiped
+- If you get wiped, you will be removed from the alliance and removed from the discord
+- This may not apply for certain people and/or blocks
+
 
 
 # __§ 5 Special Cases__
