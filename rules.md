@@ -6,6 +6,7 @@
 - `Blacklisted` refers to not being able to join the alliance. This list does not reset and people are rarely removed from it. Being blacklisted may mean you are an enemy of the alliance
 - `SFA` and `SFD` refers to the special forces. See § 4.2
 
+
 # __§ 1 Joining the Alliance__
 ## § 1.1 Requirements
 - You need to be on the discord
@@ -18,6 +19,7 @@
 - You are not considered an alliance member until everything in § 1.1 is met
 - You do not need to meet everything in § 1.1 to start the join process
 
+
 # __§ 2 Attacking__
 ## § 2.1 Attacking an alliance member
 ### a) Attacking an alliance member while not being a part of the alliance
@@ -28,6 +30,7 @@
 - This has nothing to do with the alliance, we and the SFA will neither help nor intervene
 - You may request help if the person you are attacking is know for attacking alliance members, blacklisted, or already an enemy of the alliance
 
+
 # __§ 3 Defending__
 ## § 3.1 Defending against an unprovoked attack
 - We and the SFD will always help against such an attack after being made aware of it by you or your alerts
@@ -36,6 +39,7 @@
 ## § 3.2 Defending against an provoked attack
 - If you provoked the attack by attacking first we and the SFD may not help
 - Depending on the severity, we and the SFD may help protect your base
+
 
 # __§ 4 Being a member of the alliance__
 ## § 4.1 Signs
@@ -67,6 +71,7 @@
 - You do not need to have your alerts on our discord
 - Not having your alerts on our discord may lead to us and the SFD not being able to defend you due to not being notified about attacks
 
+
 # __§ 5 Special Cases__
 ## § 5.1 There are nearly no empty tiles left
 - We and the SFD will stop protecting the larger players from every attack
@@ -74,3 +79,5 @@
 ## § 5.2 The rules are updated
 - We may update these rules at any point without prior notice
 - You will be notified in the announcements channel
+- The rules are always available at https://github.com/GaviTSRA/TSR-Alliance/blob/main/rules.md
+- You can view changes to the rules at https://github.com/GaviTSRA/TSR-Alliance/commits/main
