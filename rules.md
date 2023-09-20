@@ -95,3 +95,4 @@
 - You will be notified in the announcements channel
 - The rules are always available at https://github.com/GaviTSRA/TSR-Alliance/blob/main/rules.md
 - You can view changes to the rules at https://github.com/GaviTSRA/TSR-Alliance/commits/main
+- You are always open create issues or pull request on the github or make suggestions about the rules in any other way
