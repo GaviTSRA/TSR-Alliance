@@ -13,7 +13,7 @@
 - You need to be on the discord
 - Your username needs to be formatted to be your normal discord username with your minecraft username in brackets afterwards, ex: DiscordName (IngameName)
 - You need to be accepted by any alliance leader
-- ~~You need to have a sign at the official alliance list~~ currently not existent
+- You need to have a sign at the official alliance list (Plot spawn)
 - You must not be blacklisted
 
 ## § 1.2 Joining
